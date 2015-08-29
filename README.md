@@ -1,1 +1,1 @@
-"" Java and Android Notes on Various Topics With Notepad++ IDE (!!!)
+Java and Android Notes on Various Topics With Notepad++ IDE (!!!)
