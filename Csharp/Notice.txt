@@ -1,0 +1,8 @@
+For command line Build:
+
+http://www.microsoft.com/en-us/download/details.aspx?id=48159
+
+Download Ms Build Tools 2015 >> Install >> Find csc.exe >> add path to this dir
+
+command: csc File.cs
+	 File
