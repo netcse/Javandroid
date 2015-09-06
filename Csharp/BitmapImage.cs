@@ -24,10 +24,10 @@ namespace RectangleApplication
 				for(y=0; y<bmp.Height; y++)
 				{
 					Color pixelColor = bmp.GetPixel(x, y);
-					Console.WriteLine(pixelColor);
 					Color newColor = Color.FromArgb(pixelColor.R, 0, 0);
 					bmp.SetPixel(x, y, newColor);
 				}
+
 			}
 			
 			bmp.Save("windowsNew.bmp");
